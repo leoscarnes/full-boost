@@ -8,16 +8,16 @@ A comic-book arcade racer by **Rockadoo Studios**: ten tracks, 33 cars, drifting
 
 ## Download
 
-**[Get FULL BOOST v1.1 (Story Mode) from the latest release](../../releases/latest)**. It's free, for macOS and Windows.
+**[Get FULL BOOST v1.2 (Rivals & Rides) from the latest release](../../releases/latest)**. It's free, for macOS and Windows.
 
 ### Windows (64-bit, Windows 10 or 11)
-1. Download `FullBoost-v1.1-Windows.zip` and **extract the whole folder** (right-click → Extract All). Don't run it from inside the zip.
+1. Download `FullBoost-v1.2-Windows.zip` and **extract the whole folder** (right-click → Extract All). Don't run it from inside the zip.
 2. Open the folder and run **FULL BOOST.exe**.
 3. The game isn't code-signed, so Windows SmartScreen may say "Windows protected your PC". Click **More info → Run anyway**.
 4. For the **phone controller**, allow FULL BOOST through Windows Firewall when asked (private networks are enough).
 
 ### macOS (Apple Silicon: M1 or newer, macOS 12+)
-1. Download `FullBoost-v1.1-macOS.zip` and unzip it.
+1. Download `FullBoost-v1.2-macOS.zip` and unzip it.
 2. Move **FullBoost.app** to your Applications folder.
 3. The first time, **right-click the app → Open → Open**. The app isn't notarized by Apple, so macOS asks once.
    - If macOS says the app "is damaged" or "can't be opened", run this once in Terminal, then open it normally:
